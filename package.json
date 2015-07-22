@@ -1,0 +1,14 @@
+{
+    "author": "Mihai Ene <dkrandu@yahoo.com>",
+    "name": "precis-server",
+    "description": "precis-server",
+    "version": "0.0.1",
+    "dependencies": {
+        "compound": ">=1.1.15 <1.2.0",
+        "jugglingdb": "0.3.x",
+        "express": "3.x",
+        "request": "2.60.x"
+    },
+    "main": "index.js"
+}
+
